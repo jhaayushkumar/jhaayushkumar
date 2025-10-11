@@ -28,10 +28,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jhaayushkumar&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+---
 
-----
 [![An image of @jhaayushkumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhaayushkumar)](https://holopin.io/@jhaayushkumar)
-
 
 ----
 
