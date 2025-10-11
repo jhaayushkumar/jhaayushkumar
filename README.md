@@ -31,7 +31,6 @@
 ---
 
 [![An image of @jhaayushkumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhaayushkumar)](https://holopin.io/@jhaayushkumar)
-
 ----
 
 ### ✍️ Random Dev Quote
