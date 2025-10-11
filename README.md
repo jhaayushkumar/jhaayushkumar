@@ -19,6 +19,21 @@
 ![](https://github-readme-stats.vercel.app/api?username=jhaayushkumar&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jhaayushkumar&theme=ocean_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhaayushkumar&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+ ---- 
+ 
+## 🏆 Halopin's
+
+---
+
+[![An image of @jhaayushkumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhaayushkumar)](https://holopin.io/@jhaayushkumar)
+
+
+----
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jhaayushkumar&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 <div align="center">
@@ -26,12 +41,7 @@
 </div>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jhaayushkumar&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
----
 
-[![An image of @jhaayushkumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhaayushkumar)](https://holopin.io/@jhaayushkumar)
-----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
