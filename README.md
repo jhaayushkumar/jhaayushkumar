@@ -20,6 +20,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=jhaayushkumar&theme=ocean_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhaayushkumar&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
  ---- 
+
+ <!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhaayushkumar&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
  
 ## 🏆 Halopin's
 
