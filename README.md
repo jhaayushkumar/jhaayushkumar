@@ -38,8 +38,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jhaayushkumar&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
+---
+## 📊 Visitors Count
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AyushCoder9" alt="Visitor Badge" />
+</p>
 
+---
 
 
 ### ✍️ Random Dev Quote
