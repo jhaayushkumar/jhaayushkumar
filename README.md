@@ -1,8 +1,21 @@
-# 💫 Hi 👋, I'm Ayush Kumar Jha
-**A passionate Full Stack Developer **
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F7AB0A&width=600&lines=👋+Hi%2C+I'm+Ayush+Kumar+Jha;Full-Stack+Developer;" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <!-- Social & Professional Badges -->
+  <a href="https://github.com/jhaayushkumar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/jha4ayush/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/cry_flow_67">
+    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
 
-
+---
 
 - 📫 **How to reach me:** jha44481@gmail.com
 
