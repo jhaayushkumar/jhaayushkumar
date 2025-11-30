@@ -27,18 +27,17 @@
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jha44481@gmail.com) 
 
-
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jhaayushkumar&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jhaayushkumar&theme=ocean_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhaayushkumar&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
  ---- 
+ 
+----
+# Github Activity Graph 📈
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jhaayushkumar&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/jhaayushkumar/github-readme-activity-graph)
 
- <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhaayushkumar&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
 
  
 ## 🏆 Halopin's
