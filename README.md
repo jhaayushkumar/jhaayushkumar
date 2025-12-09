@@ -22,7 +22,6 @@ Approach: Clean code, best practices, performance optimization
 ```
 
 **🎯 What I Bring to the Table:**
-<img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
 - ✅ End-to-end feature development (Frontend + Backend)
 - ✅ Database design & optimization (SQL & NoSQL)
 - ✅ RESTful API architecture & microservices
