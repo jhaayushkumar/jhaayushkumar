@@ -46,9 +46,31 @@
 
 ----
 
+### Profile Summary
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jhaayushkumar&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhaayushkumar&theme=github_dark" alt="GitHub Profile Summary" />
+
+</div>
+
+---
+
+## 💡 What Sets Me Apart
+
+```javascript
+const Ayush = {
+  code: ["JavaScript", "Python", "HTML/CSS", "SQL"],
+  technologies: {
+    frontend: ["React", "React Native", "TailwindCSS", "Material-UI"],
+    backend: ["Node.js", "Express.js", "REST APIs"],
+    databases: ["PostgreSQL", "MongoDB", "Prisma ORM"],
+    deployment: ["Vercel", "Netlify", "Render", "Supabase"]
+  },
+  architecture: ["Microservices", "RESTful APIs", "MVC Pattern"],
+  currentFocus: "Building scalable full-stack applications",
+  openSource: "Active contributor",
+  hiring: "Available for opportunities"
+};
+```
 
 ---
 ## 📊 Visitors Count
