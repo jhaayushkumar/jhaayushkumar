@@ -100,7 +100,7 @@ Approach: Clean code, best practices, performance optimization
 
 <div align="center">
 
-[![Holopin Badges](https://holopin.me/adarshpriydarshi5646)](https://holopin.io/@adarshpriydarshi5646)
+[![Holopin Badges](https://holopin.me/jhaayushkumar)](https://holopin.io/@jhaayushkumar)
 
 *Actively contributing to open-source projects and earning recognition for collaboration & innovation*
 
