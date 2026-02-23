@@ -1,28 +1,4 @@
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%7C+MERN+Stack;Open+Source+Contributor;Problem+Solver)](https://git.io/typing-svg)
-
-<p>
-  <a href="mailto:jha44481@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/jhaayushkumar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-</div>
-
----
-
-## 💼 Professional Summary
-
-```yaml
-Role: Full Stack Developer
-Specialization: MERN Stack | App Development (ReactNative)| DSA
-Focus: Building production-ready, scalable web applications
-Expertise: React.js, Node.js, SQL, MongoDB, REST APIs
-Approach: Clean code, best practices, performance optimization
-```
-
-
-## 💡 What Sets Me Apart
 
 ```javascript
 const Ayush = {
