@@ -18,8 +18,6 @@ const Ayush = {
 
 ---
 
-## 📬 Get in Touch
-
 <div align="center">
 
 ### Let's Build Something Amazing Together!
@@ -36,9 +34,3 @@ const Ayush = {
 **📧 jha44481@gmail.com**
 
 ---
-
-*"Writing clean code, solving real problems, and building the future one commit at a time."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
