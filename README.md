@@ -11,8 +11,7 @@ const Ayush = {
   },
   architecture: ["Microservices", "RESTful APIs", "MVC Pattern"],
   currentFocus: "Building scalable full-stack applications",
-  openSource: "Active contributor",
-  hiring: "Available for opportunities"
+  openSource: "Active contributor"
 };
 ```
 
