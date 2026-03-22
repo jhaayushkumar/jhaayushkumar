@@ -1,5 +1,3 @@
-
-
 ```javascript
 const Ayush = {
   code: ["JavaScript", "Python", "HTML/CSS", "SQL"],
@@ -29,7 +27,5 @@ const Ayush = {
     <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
-**📧 jha44481@gmail.com**
 
 ---
