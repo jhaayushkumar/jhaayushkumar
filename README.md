@@ -11,7 +11,7 @@ const Ayush = {
   currentFocus: "Building scalable full-stack applications",
   openSource: "Active contributor",
 },
-========================================================OPEN FOR WORK and CONTRIBUTE===============================================================================
+========================================================OPEN SOURCE COUNTRIBUTOR===============================================================================
 ```
 
 ---
