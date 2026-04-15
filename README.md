@@ -1,5 +1,5 @@
 ```javascript
-const Ayush = {
+let Ayush = {
   code: ["JavaScript", "Python", "HTML/CSS", "SQL"],
   technologies: {
     frontend: ["React", "React Native", "TailwindCSS", "Material-UI"],
